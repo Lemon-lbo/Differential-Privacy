@@ -65,6 +65,6 @@ The project demonstrates how randomized response can be a simple yet effective m
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
-## Completetion Date
+## Completion Date
 This project was originally completed in May 2025.
 
